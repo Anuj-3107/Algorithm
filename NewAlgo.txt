@@ -2,3 +2,5 @@ Algorithms list:
 1. Divide and Conquer
 2. Greedy Method
 3. Dynamic Programming
+4.brute force Algorithms
+5.backtracking Algorithms
